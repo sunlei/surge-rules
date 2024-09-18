@@ -1,0 +1,30 @@
+#!name=[Sunlei] URL Rewrite | 南+
+#!desc=Enable this module to use [Sunlei] URL Rewrite | 南+
+
+[MITM]
+
+hostname = %APPEND% soul-plus.net, north-plus.net, south-plus.net, white-plus.net, level-plus.net, summer-plus.net, spring-plus.net, snow-plus.net, east-plus.net, blue-plus.net
+
+[URL Rewrite]
+
+# > https://www.south-plus.net/read.php?tid-530623.html
+# 魂+
+^https?:\/\/(www.)?soul-plus.net\/ https://www.south-plus.net/ 302
+# 北+
+^https?:\/\/(www.)?north-plus.net\/ https://www.south-plus.net/ 302
+# 南+
+^https?:\/\/(www.)?south-plus.net\/ https://www.south-plus.net/ 302
+# 白+
+^https?:\/\/(www.)?white-plus.net\/ https://www.south-plus.net/ 302
+# Lv+
+^https?:\/\/(www.)?level-plus.net\/ https://www.south-plus.net/ 302
+# 夏+
+^https?:\/\/(www.)?summer-plus.net\/ https://www.south-plus.net/ 302
+# 春+
+^https?:\/\/(www.)?spring-plus.net\/ https://www.south-plus.net/ 302
+# 雪+
+^https?:\/\/(www.)?snow-plus.net\/ https://www.south-plus.net/ 302
+# 东+
+^https?:\/\/(www.)?east-plus.net\/ https://www.south-plus.net/ 302
+# 蓝+
+^https?:\/\/(www.)?blue-plus.net\/ https://www.south-plus.net/ 302
