@@ -1,0 +1,133 @@
+# vim: set ft=ini ts=4 sw=4
+
+# > ------------------------------------------------------------
+# > 自定义
+
+# ChatGPT
+DOMAIN-SUFFIX, ai.com
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, oaistatic.com
+DOMAIN-SUFFIX, oaiusercontent.com
+DOMAIN-SUFFIX, openai.com
+; AND, ((DOMAIN-SUFFIX, livekit.cloud), (DEST-PORT, 7881))
+
+# Chat GPT API & CDN
+DOMAIN-SUFFIX, cdn.oaistatic.com
+DOMAIN-SUFFIX, o33249.ingest.sentry.io
+DOMAIN-SUFFIX, oaistatic.com
+DOMAIN-SUFFIX, oaiusercontent.com
+DOMAIN, chat.openai.com.cdn.cloudflare.net
+DOMAIN, openaiapi-site.azureedge.net
+DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN, openaicomproductionae4b.blob.core.windows.net
+DOMAIN, production-openaicom-storage.azureedge.net
+
+# Claude
+DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX, claude.ai
+
+# Copilot
+# DOMAIN, api.msn.com
+# DOMAIN, assets.msn.com
+# DOMAIN, copilot.microsoft.com
+# DOMAIN, dealczars.bing-shopping.microsoft-falcon.io
+# DOMAIN, gateway.bingviz.microsoftapp.net
+# DOMAIN, location.microsoft.com
+# DOMAIN, login.microsoftonline.com
+# DOMAIN, sapphire.api.microsoftapp.net
+# DOMAIN, self.events.data.microsoft.com
+# DOMAIN, services.bingapis.com
+# DOMAIN, shopping.bing-shopping.microsoft-falcon.io
+
+# Gemini
+DOMAIN-SUFFIX, gemini.google.com
+DOMAIN, ai.google.dev
+DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN, bard.google.com
+DOMAIN, generativelanguage.googleapis.com
+DOMAIN, makersuite.google.com
+; alkalicore-pa.clients6.google.com
+
+# Meta AI
+DOMAIN-SUFFIX, meta.ai
+
+# Perplexity AI
+DOMAIN-SUFFIX, perplexity.ai
+
+# Zed
+DOMAIN, llm.zed.dev
+
+DOMAIN-SUFFIX, cerebras.ai
+
+# > ------------------------------------------------------------
+# > https://ruleset.skk.moe/List/non_ip/ai.conf
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,gateway.ai.cloudflare.com
+DOMAIN-KEYWORD,openai
+
+# > ------------------------------------------------------------
+# > https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,gemini.google.com
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-KEYWORD,openai
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-ASN,20473,no-resolve
