@@ -9,7 +9,7 @@ DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
-; AND, ((DOMAIN-SUFFIX, livekit.cloud), (DEST-PORT, 7881))
+# AND, ((DOMAIN-SUFFIX, livekit.cloud), (DEST-PORT, 7881))
 
 # Chat GPT API & CDN
 DOMAIN-SUFFIX, cdn.oaistatic.com
