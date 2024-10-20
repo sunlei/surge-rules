@@ -46,7 +46,7 @@ DOMAIN, alkalimakersuite-pa.clients6.google.com
 DOMAIN, bard.google.com
 DOMAIN, generativelanguage.googleapis.com
 DOMAIN, makersuite.google.com
-; alkalicore-pa.clients6.google.com
+# alkalicore-pa.clients6.google.com
 
 # Meta AI
 DOMAIN-SUFFIX, meta.ai
