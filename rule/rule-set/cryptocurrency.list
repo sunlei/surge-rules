@@ -38,18 +38,18 @@ DOMAIN-SUFFIX, sequence.app
 DOMAIN-SUFFIX, starsharks.com
 
 # Bybit
-DOMAIN-SUFFIX, bybit.com
-DOMAIN, bybit.ada.support
+DOMAIN-SUFFIX, byabcde.com
+DOMAIN-SUFFIX, byapis.com
+DOMAIN-SUFFIX, bybdc6.com
 DOMAIN-SUFFIX, bybit-aws.com
-DOMAIN, bybit-exchange.github.io
-DOMAIN-SUFFIX, byapis.com
-DOMAIN-SUFFIX, bycbe.com
 DOMAIN-SUFFIX, bybit.com
-DOMAIN-SUFFIX, bycsi.com
-DOMAIN-SUFFIX, bytick.com
-DOMAIN-SUFFIX, byapis.com
+DOMAIN-SUFFIX, bybitglobal.com
 DOMAIN-SUFFIX, bycbe.com
+DOMAIN-SUFFIX, bycsi.com
 DOMAIN-SUFFIX, bymj.io
+DOMAIN-SUFFIX, bytick.com
+DOMAIN, bybit-exchange.github.io
+DOMAIN, bybit.ada.support
 
 # > ------------------------------------------------------------
 # > https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Crypto/Crypto.list
