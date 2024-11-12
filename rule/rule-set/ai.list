@@ -26,6 +26,9 @@ DOMAIN, production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
 
+# Groq
+DOMAIN-SUFFIX, groq.com
+
 # Copilot
 # DOMAIN, api.msn.com
 # DOMAIN, assets.msn.com
