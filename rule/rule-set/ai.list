@@ -29,6 +29,10 @@ DOMAIN-SUFFIX, claude.ai
 # Groq
 DOMAIN-SUFFIX, groq.com
 
+# GitHub Copilot
+DOMAIN-SUFFIX, githubcopilot.com
+DOMAIN, copilot-proxy.githubusercontent.com
+
 # Copilot
 # DOMAIN, api.msn.com
 # DOMAIN, assets.msn.com
