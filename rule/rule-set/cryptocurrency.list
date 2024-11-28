@@ -61,6 +61,8 @@ DOMAIN, bybit.ada.support
 
 # Bitget
 DOMAIN-SUFFIX, bitget.com
+DOMAIN, bitget.ada.support
+DOMAIN-SUFFIX, bitgetimg.com
 
 # > ------------------------------------------------------------
 # > https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Crypto/Crypto.list
