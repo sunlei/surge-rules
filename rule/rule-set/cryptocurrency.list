@@ -59,6 +59,9 @@ DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN, bybit-exchange.github.io
 DOMAIN, bybit.ada.support
 
+# Bitget
+DOMAIN-SUFFIX, bitget.com
+
 # > ------------------------------------------------------------
 # > https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Crypto/Crypto.list
 DOMAIN,token-api.metaswap.codefi.network
