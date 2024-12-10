@@ -3,12 +3,13 @@
 # > ------------------------------------------------------------
 # > 自定义
 
-# ChatGPT
+# ChatGPT / OpenAI
 DOMAIN-SUFFIX, ai.com
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, sora.com
 # AND, ((DOMAIN-SUFFIX, livekit.cloud), (DEST-PORT, 7881))
 
 # Chat GPT API & CDN
@@ -25,6 +26,7 @@ DOMAIN, production-openaicom-storage.azureedge.net
 # Claude
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claudeusercontent.com
 
 # Groq
 DOMAIN-SUFFIX, groq.com
