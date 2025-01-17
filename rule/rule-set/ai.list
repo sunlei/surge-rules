@@ -31,6 +31,9 @@ DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claudeusercontent.com
 
+# OpenRouter
+DOMAIN-SUFFIX, openrouter.ai
+
 # Groq
 DOMAIN-SUFFIX, groq.com
 
