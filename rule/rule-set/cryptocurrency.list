@@ -64,6 +64,15 @@ DOMAIN-SUFFIX, bitget.com
 DOMAIN, bitget.ada.support
 DOMAIN-SUFFIX, bitgetimg.com
 
+# dYdX
+DOMAIN-SUFFIX, dydx.trade
+DOMAIN-SUFFIX, dydx.exchange
+DOMAIN-SUFFIX, fun.xyz
+DOMAIN, dydx-ops-rpc.kingnodes.com
+DOMAIN, dydx-dao-rpc.polkachu.com
+DOMAIN, dydx-dao-rpc.enigma-validator.com
+
+
 # > ------------------------------------------------------------
 # > https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Crypto/Crypto.list
 DOMAIN,token-api.metaswap.codefi.network
