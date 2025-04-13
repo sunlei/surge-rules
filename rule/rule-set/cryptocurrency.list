@@ -72,6 +72,8 @@ DOMAIN, dydx-ops-rpc.kingnodes.com
 DOMAIN, dydx-dao-rpc.polkachu.com
 DOMAIN, dydx-dao-rpc.enigma-validator.com
 
+# Infini
+DOMAIN-SUFFIX, infini.money
 
 # > ------------------------------------------------------------
 # > https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Crypto/Crypto.list
