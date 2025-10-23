@@ -30,6 +30,8 @@ DOMAIN, production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claudeusercontent.com
+DOMAIN-SUFFIX, claude.com
+DOMAIN, servd-anthropic-website.b-cdn.net
 
 # OpenRouter
 DOMAIN-SUFFIX, openrouter.ai
