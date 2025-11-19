@@ -75,6 +75,10 @@ DOMAIN, gemini.google.com
 DOMAIN, generativelanguage.googleapis.com
 DOMAIN, makersuite.google.com
 
+# Google Antigravity
+DOMAIN-SUFFIX, antigravity.google
+DOMAIN-SUFFIX, antigravity-unleash.goog
+
 # Meta AI
 DOMAIN-SUFFIX, meta.ai
 
