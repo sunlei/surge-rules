@@ -27,6 +27,7 @@ DOMAIN, openaicomproductionae4b.blob.core.windows.net
 DOMAIN, production-openaicom-storage.azureedge.net
 
 # Claude
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Claude/Claude.list
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claudeusercontent.com
@@ -57,6 +58,12 @@ DOMAIN, copilot-proxy.githubusercontent.com
 # DOMAIN, shopping.bing-shopping.microsoft-falcon.io
 
 # Gemini
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Gemini/Gemini.list
+DOMAIN-KEYWORD, colab
+DOMAIN-KEYWORD, developerprofiles
+DOMAIN-KEYWORD, generativelanguage
+DOMAIN-SUFFIX, apis.google.com
+DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
 DOMAIN-SUFFIX, geller-pa.googleapis.com
@@ -97,15 +104,20 @@ DOMAIN-SUFFIX, ampcode.com
 # > ------------------------------------------------------------
 # > https://ruleset.skk.moe/List/non_ip/ai.conf
 DOMAIN-SUFFIX,generativeai.google
+DOMAIN,antigravity.google
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,gemini.google
+DOMAIN,antigravity-unleash.goog
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN,aida.googleapis.com
 DOMAIN,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,anthropic.com
@@ -119,6 +131,7 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN,jules.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN,api.github.com
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,grok.com
@@ -127,6 +140,7 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,openrouter.ai
 DOMAIN,api.jetbrains.ai
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,jasper.ai
@@ -134,6 +148,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,g.ai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 
