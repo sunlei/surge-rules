@@ -3,6 +3,14 @@
 # > ------------------------------------------------------------
 # > 自定义
 
+# Datadog
+DOMAIN-SUFFIX, app.datadoghq.com
+DOMAIN-SUFFIX, us3.datadoghq.com
+DOMAIN-SUFFIX, us5.datadoghq.com
+# DOMAIN-SUFFIX, app.datadoghq.eu EU
+# DOMAIN-SUFFIX, app.ddog-gov.com US
+# DOMAIN-SUFFIX, ap1.datadoghq.com Japan
+
 # ChatGPT / OpenAI
 DOMAIN-SUFFIX, ai.com
 DOMAIN-SUFFIX, chatgpt.com
