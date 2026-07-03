@@ -82,6 +82,9 @@ DOMAIN-SUFFIX, gate.io
 # whitebit
 DOMAIN-SUFFIX, whitebit.com
 
+# Extended
+DOMAIN-SUFFIX, extended.exchange
+
 # > ------------------------------------------------------------
 # > https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Crypto/Crypto.list
 # > https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Cryptocurrency/Cryptocurrency.list
