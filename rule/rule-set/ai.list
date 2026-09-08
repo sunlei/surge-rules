@@ -3,6 +3,9 @@
 # > ------------------------------------------------------------
 # > 自定义
 
+# Darkbloom
+DOMAIN-SUFFIX, darkbloom.dev
+
 # Datadog
 DOMAIN-SUFFIX, app.datadoghq.com
 DOMAIN-SUFFIX, us3.datadoghq.com
