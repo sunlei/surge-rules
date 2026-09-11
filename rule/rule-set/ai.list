@@ -3,6 +3,9 @@
 # > ------------------------------------------------------------
 # > 自定义
 
+# Cursor
+DOMAIN-SUFFIX, cursor.sh
+
 # Darkbloom
 DOMAIN-SUFFIX, darkbloom.dev
 
