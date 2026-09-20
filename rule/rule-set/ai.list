@@ -3,6 +3,12 @@
 # > ------------------------------------------------------------
 # > 自定义
 
+# TypeSafe
+DOMAIN-SUFFIX, typesafe.ai
+
+# Muse
+DOMAIN-SUFFIX, muse.ai
+
 # Cursor
 DOMAIN-SUFFIX, cursor.sh
 
