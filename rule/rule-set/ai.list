@@ -3,6 +3,9 @@
 # > ------------------------------------------------------------
 # > 自定义
 
+# OpenCode
+DOMAIN-SUFFIX, opencode.ai
+
 # TypeSafe
 DOMAIN-SUFFIX, typesafe.ai
 
