@@ -68,6 +68,7 @@ DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, claudeusercontent.com
 DOMAIN, cdn.usefathom.com
 DOMAIN, servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX, clau.de
 
 # OpenRouter
 DOMAIN-SUFFIX, openrouter.ai
