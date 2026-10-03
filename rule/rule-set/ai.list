@@ -65,6 +65,9 @@ DOMAIN, videos.openai.com
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claude.com
+DOMAIN-SUFFIX, claude.dev
+DOMAIN-SUFFIX, claudemcpclient.com
+DOMAIN-SUFFIX, claudemcpcontent.com
 DOMAIN-SUFFIX, claudeusercontent.com
 DOMAIN, cdn.usefathom.com
 DOMAIN, servd-anthropic-website.b-cdn.net
@@ -139,54 +142,58 @@ DOMAIN-SUFFIX, ampcode.com
 
 # > ------------------------------------------------------------
 # > https://ruleset.skk.moe/List/non_ip/ai.conf
-DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,g.ai
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,gemini.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,jasper.ai
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,openart.ai
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN,ai.google.dev
-DOMAIN,aida.googleapis.com
-DOMAIN,aisandbox-pa.googleapis.com
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,antigravity-unleash.goog
-DOMAIN,antigravity.google
-DOMAIN,api.github.com
-DOMAIN,api.jetbrains.ai
-DOMAIN,daily-cloudcode-pa.googleapis.com
-DOMAIN,gateway.ai.cloudflare.com
-DOMAIN,jules.google.com
-DOMAIN,openrouter.ai
 DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,openrouter.ai
+DOMAIN,jules.google.com
+DOMAIN,gateway.ai.cloudflare.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,api.jetbrains.ai
+DOMAIN,api.github.com
+DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,aida.googleapis.com
+DOMAIN,ai.google.dev
+DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,g.ai
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 
 # > ------------------------------------------------------------
 # > https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list
