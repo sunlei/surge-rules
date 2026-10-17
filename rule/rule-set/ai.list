@@ -3,6 +3,9 @@
 # > ------------------------------------------------------------
 # > 自定义
 
+# WorkBuddy
+DOMAIN-SUFFIX, workbuddy.ai
+
 # OpenCode
 DOMAIN-SUFFIX, opencode.ai
 
